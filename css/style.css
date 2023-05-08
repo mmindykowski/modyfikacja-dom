@@ -1,0 +1,23 @@
+button {
+    color: #fff;
+    padding: 15px 35px;
+    border: 0 solid;
+    border-radius: 10px;
+    font-size: 1.5em;
+    text-transform: uppercase;
+    font-weight: 700;
+    position: static;
+}
+
+.list {
+    margin-top: 10px;
+    position: absolute;
+}
+
+.click-first {
+    background-color: red;
+}
+
+.click-back {
+    background-color: green;
+}
